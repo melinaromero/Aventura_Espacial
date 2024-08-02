@@ -13,7 +13,7 @@ Aventura Espacial es un juego de disparos en el espacio desarrollado en Python u
 
 1. Clona el repositorio:
 
-   `git clone https://github.com/tu-usuario/aventura-espacial.git`
+   `git clone https://github.com/melinaromero/Aventura_Espacial.git`
 
 2. Entra en la carpeta del proyecto:
 
@@ -34,6 +34,4 @@ Para ejecutar el juego, usa el siguiente comando:
 - Usa las teclas de flecha izquierda y derecha para mover la nave.
 - Presiona la barra espaciadora para disparar.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+## Desarrollado por Melina Romero
